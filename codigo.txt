@@ -3,3 +3,5 @@ Sistema Cibertec
 Joseph Andre Bolaños Hernandez
 
 Sistema del colegio 122
+
+Este sistema permite la matricula de los alumnos
